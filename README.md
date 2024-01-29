@@ -9,10 +9,10 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-Then run npm run dev to run project on browser.
+Then run npm run dev to run the project on the browser.
 ```bash
   npm run dev
 ```
 
 Runs the app in the development mode.
-Open http://localhost:5173 to view it in your browser.
+Open **http://localhost:5173** to view it in your browser.
