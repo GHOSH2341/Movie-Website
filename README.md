@@ -4,8 +4,12 @@ Lights, camera, action! Discover the latest movies and actors at your fingertips
 
 ## Deployment
 
-To deploy this project run
+Install dependencies
+```bash
+ npm install
+```
 
+To deploy this project run
 ```bash
   npm run deploy
 ```
