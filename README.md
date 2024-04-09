@@ -4,7 +4,7 @@ Lights, camera, action! Discover the latest movies and actors at your fingertips
 
 ## Deployment
 
-Install dependencies
+Install dependencies.
 ```bash
  npm install
 ```
