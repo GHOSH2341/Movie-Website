@@ -1,5 +1,6 @@
 # Movie Website Using React 🎬
-Lights, camera, action! Discover the latest movies and actors at your fingertips.
+Lights, camera, action!
+Discover the latest movies and actors at your fingertips.
 
 
 ## Deployment
